@@ -23,7 +23,7 @@ our proposed CGP.
 
 <h2> Python Dependencies </h2>
 
-Our proposed Gapformer is implemented in Python 3.7 and major libraries include:
+Our proposed CGP is implemented in Python 3.7 and major libraries include:
 
 * [Pytorch](https://pytorch.org/) = 1.11.0+cu113
 * [PyG](https://pytorch-geometric.readthedocs.io/en/latest/) torch-geometric=2.2.0
